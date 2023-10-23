@@ -1,5 +1,4 @@
-<!-- Start Command: npm run start -->
-<!--  -->
+View Netlify live link:  https://sunny-muffin-6c57ee.netlify.app/
 
 # Getting Started with Create React App
 
