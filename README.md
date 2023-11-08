@@ -1,1 +1,2 @@
-View Netlify live link:  https://sunny-muffin-6c57ee.netlify.app/
+View Live link: https://my-react-js-portfolio-iomrn30tw-md-naim-ranas-projects.vercel.app/service
+
